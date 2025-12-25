@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Chun-Yu Chia (賈俊佑) 👋
 
-<!--
-**ChiaChunYu/chiachunyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
 
-Here are some ideas to get you started:
+I am a **Master's student** majoring in **Computer Science** at **National Tsing Hua University (NTHU), Hsinchu, Taiwan**. My research currently focuses on **Electronic Design Automation (EDA)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ **Research Interests:** EDA, Physical Design, Algorithms.
+
+---
+
+### 🛠 Languages and Tools:
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a><a 
+  href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a><a 
+  href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a><a 
+  href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Chun-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiaChunYu&show_icons=true&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaChunYu&layout=compact&theme=transparent)
+
+---
+
+<p align="center">
+  🏠 <a href="https://chiachunyu.github.io/">Visit my Portfolio Website</a>
+</p>
