@@ -21,8 +21,4 @@ I am a **Master's student** majoring in **Computer Science** at **National Tsing
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiaChunYu&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="Chun-Yu's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaChunYu&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Most Used Languages" height="150" />
-</p>
-
+[![](https://github-readme-stats.vercel.app/api?username=chiachunyu)](https://github.com/anuraghazra/github-readme-stats)
